@@ -5,6 +5,7 @@ An intelligent, multi-turn tutoring system built with LangGraph, Retrieval-Augme
 Sample Langsmith Tracing can be found here: https://smith.langchain.com/public/89bae199-713c-4195-b499-c2631e877573/r
 
 Simple LangGraph Visualisation:
+
 <img width="421" height="447" alt="image" src="https://github.com/user-attachments/assets/f6c6f157-815f-47a7-9710-163e083382e6" />
 
 ---
