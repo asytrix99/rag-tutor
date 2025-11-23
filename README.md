@@ -2,6 +2,8 @@
 
 An intelligent, multi-turn tutoring system built with LangGraph, Retrieval-Augmented Generation (RAG), and LLM-driven reasoning. The system diagnoses a student’s misunderstanding level and dynamically adapts follow-up questions to guide learning.
 
+Sample Langsmith Tracing can be found here: https://smith.langchain.com/public/89bae199-713c-4195-b499-c2631e877573/r
+
 ---
 
 ## 🚀 Key Features
